@@ -2,9 +2,11 @@
 
 ## Are certain media more prone to publish political quotes in their sports article ?
 
-So far it appears that quotes among sports media are actually linked to politics. However, we still wonder if all medias are the same regarding this bias. To do so, we can have a look to the proportion of political speakers among the different sports media. Here is what we obtain with the 30 biggest media in terms of number of sport related quotes in 2019 :     
+So far it appears that quotes among sports media are actually linked to politics. However, we still wonder if all medias are the same regarding this bias. To do so, we can have a look to the proportion of political speakers among the different sports media. However, we have more than 2 000 different media sources, so we first need to pick a selection of them. Let's have look to the 30 biggest sports media in terms of number of sport quotes between 2015 and 2020 :
 
 ![](ranking.png 'Political speaker according to TOP 30 medias')
+
+Now, that we have this selection of sports media, let's see what the proportion of political speakers in sport quotes there is for each media : 
 
 ![](Political_speakers_by_media.png 'Political speaker according to TOP 30 medias')
 
