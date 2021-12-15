@@ -21,3 +21,4 @@ Unfortunately, as one can observe, it is not possible to identify any trends due
 However, another approach is to have a look at the media themselves and how their tendancies have evolved through time : 
 
 ![](variation.png 'Variation trhough the years')
+ 
