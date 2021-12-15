@@ -4,6 +4,8 @@
 
 So far it appears that quotes among sports media are actually linked to politics. However, we still wonder if all medias are the same regarding this bias. To do so, we can have a look to the proportion of political speakers among the different sports media. Here is what we obtain with the 30 biggest media in terms of number of sport related quotes in 2019 :     
 
+![](ranking.png 'Political speaker according to TOP 30 medias')
+
 ![](Political_speakers_by_media.png 'Political speaker according to TOP 30 medias')
 
 As one can observe on this image, the proportion of political speakers among the different media in 2019 ranges from 1.5% for Skysports to 71% for krmg. This seems to indicate that certain media are definitely more politicized than others and uses their sports section also for political reasons.
