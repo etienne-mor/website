@@ -1,37 +1,19 @@
-## Test
+# Politics in sports media through quotes
 
-You can use the [editor on GitHub](https://github.com/etienne-mor/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Are certain media more prone to publish political quotes in their sports article ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So far it appears that quotes among sports media are actually linked to politics. However, we still wonder if all medias are the same regarding this bias. To do so, we can have a look to the proportion of political speakers among the different sports media. Here is what we obtain with the 30 biggest media in terms of number of sport related quotes in 2019 :     
 
-### Markdown
+![This is an image](/content/drive/MyDrive/ADA/Political_speakers_by_media_2019.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As one can observe on this image, the proportion of political speakers among the different media in 2019 ranges from 1.5% for Skysports to 71% for krmg. This seems to indicate that certain media are definitely more politicized than others and uses their sports section also for political reasons.
 
-```markdown
-Syntax highlighted code block
+## Evolution of the phenomenon through time
 
-# Header 1
-## Header 2
-### Header 3
+Another interesting question to ask is : how does the phenonenon of having politicized quotes in sports article evolves through time. For instance, does it increases during the during the campaigns of the US presedential elections ? 
 
-- Bulleted
-- List
+To try to bring answer, we wanted to have a look at the policized sports quotes each month over the years and here is what we obtained : 
 
-1. Numbered
-2. List
+### Insérer image !!!!!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etienne-mor/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Unfortunately, as one can observe, it is not possible to identify any trends due to the huge variations of sports quotes through the years, itself related to the variation of all the quotes availble in the database at first. Indeed, we relate the drops in 2016 to the one mentionned in the article about quotebank **link**.
