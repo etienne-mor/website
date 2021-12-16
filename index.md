@@ -1,5 +1,13 @@
 # Politics in sports media through quotes
 
+## Introduction
+
+Sport and politics have always been and will always be very closely related due to the high media coverage and the emotions involved. From the power demonstrations of nations such as as the Olympic games of Berlin 1936, going through movements such as the "black power" salute on the podium of 1968 Olympics games, to unification symbols such as the 1995 world cup organized and won by South Africa just after the end of apartheid. More recently, movements such as Black Lives Matters have been strongly supported by athletes while the US, Australia, UK and Canada announced a diplomatic boycott of Beijing 2022 Olympic games. 
+
+All of these movements are well known political actions and show how strong the bond between sport and politics is. But what if they were just the tip of the iceberg ? Having a big dataset of quotes, the idea of this data story is to investigate the link between sports media and politics. How much a the quotes in sport article are related to politicians ? Are politicans trying to use sport and the related media coverage to influence the votes ? Are all the medias the same or certain are more politicized ? 
+
+A lot of questions can be raised and the analysis can quickly become complexe. This datastory aims to bring an answer supported by data to certain of these questions.
+
 ## Are certain media more prone to publish political quotes in their sports article ?
 
 So far it appears that quotes among sports media are actually linked to politics. However, we still wonder if all medias are the same regarding this bias. To do so, we can have a look to the proportion of political speakers among the different sports media. However, we have more than 2 000 different media sources, so we first need to pick a selection of them. Let's have look to the 30 biggest sports media in terms of number of sport quotes between 2015 and 2020 :
